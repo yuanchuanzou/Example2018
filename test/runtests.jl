@@ -23,4 +23,6 @@ z = Polynomial([0])
     @test p + z == p
   end
 
+@show 9*9
+
 end
